@@ -1,0 +1,365 @@
+#u3186
+{
+	background: transparent url("../images/shapka.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#u3186_align_to_page
+{
+	position: relative;
+}
+
+#u2856-4
+{
+	background-color: transparent;
+	line-height: 30px;
+	font-size: 25px;
+	color: #A38E55;
+	letter-spacing: 3px;
+	text-transform: uppercase;
+	text-align: center;
+	font-family: '__Century Gothic_5';
+	font-weight: 400;
+	position: relative;
+}
+
+#u2857-4
+{
+	background-color: transparent;
+	font-size: 16px;
+	color: #3C3A37;
+	text-transform: none;
+	line-height: 19px;
+	text-align: center;
+	font-family: allura, cursive;
+	font-weight: 400;
+	font-style: normal;
+	position: relative;
+}
+
+#u3190
+{
+	background: transparent url("../images/%d0%bc%d0%b5%d0%bd%d1%8e.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#menuu2862
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+}
+
+#u2885
+{
+	position: relative;
+	background: transparent url("../images/%d0%bc%d0%b5%d0%bd%d1%8e.jpg") no-repeat left top;
+}
+
+#u2885:hover
+{
+	background: transparent url("../images/u2885-r-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, from(rgba(153,153,153,0.4)),color-stop(100%, rgba(0,0,0,0.28)));
+	background: -webkit-linear-gradient(top,rgba(153,153,153,0.4) ,rgba(0,0,0,0.28) 100%);
+	background: linear-gradient(to bottom,rgba(153,153,153,0.4) ,rgba(0,0,0,0.28) 100%);
+}
+
+#u2885:active
+{
+	background: transparent url("../images/u2885-m-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, from(rgba(0,0,0,0.4)),color-stop(100%, rgba(127,127,127,0.28)));
+	background: -webkit-linear-gradient(top,rgba(0,0,0,0.4) ,rgba(127,127,127,0.28) 100%);
+	background: linear-gradient(to bottom,rgba(0,0,0,0.4) ,rgba(127,127,127,0.28) 100%);
+}
+
+#u2885.MuseMenuActive
+{
+	-pie-background: none;
+	background: #D6D6D6 url("../images/%d0%bc%d0%b5%d0%bd%d1%8e-u2885-a-fr.png") no-repeat left top;
+	background-color: rgba(153,153,153,0.4);
+}
+
+#u2887-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 20px;
+	font-size: 17px;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: '__Century Gothic_5';
+	font-weight: 400;
+	position: relative;
+}
+
+#u2899
+{
+	position: relative;
+	background: transparent url("../images/%d0%bc%d0%b5%d0%bd%d1%8e.jpg") no-repeat left top;
+}
+
+#u2899:hover
+{
+	background: transparent url("../images/u2885-r-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, from(rgba(153,153,153,0.4)),color-stop(100%, rgba(0,0,0,0.28)));
+	background: -webkit-linear-gradient(top,rgba(153,153,153,0.4) ,rgba(0,0,0,0.28) 100%);
+	background: linear-gradient(to bottom,rgba(153,153,153,0.4) ,rgba(0,0,0,0.28) 100%);
+}
+
+#u2899:active
+{
+	background: transparent url("../images/u2885-m-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, from(rgba(0,0,0,0.4)),color-stop(100%, rgba(127,127,127,0.28)));
+	background: -webkit-linear-gradient(top,rgba(0,0,0,0.4) ,rgba(127,127,127,0.28) 100%);
+	background: linear-gradient(to bottom,rgba(0,0,0,0.4) ,rgba(127,127,127,0.28) 100%);
+}
+
+#u2899.MuseMenuActive
+{
+	-pie-background: none;
+	background: #D6D6D6 url("../images/%d0%bc%d0%b5%d0%bd%d1%8e-u2885-a-fr.png") no-repeat left top;
+	background-color: rgba(153,153,153,0.4);
+}
+
+#u2902-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 20px;
+	font-size: 17px;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: '__Century Gothic_5';
+	font-weight: 400;
+	position: relative;
+}
+
+#u2892
+{
+	position: relative;
+	background: transparent url("../images/%d0%bc%d0%b5%d0%bd%d1%8e.jpg") no-repeat left top;
+}
+
+#u2892:hover
+{
+	background: transparent url("../images/u2885-r-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, from(rgba(153,153,153,0.4)),color-stop(100%, rgba(0,0,0,0.28)));
+	background: -webkit-linear-gradient(top,rgba(153,153,153,0.4) ,rgba(0,0,0,0.28) 100%);
+	background: linear-gradient(to bottom,rgba(153,153,153,0.4) ,rgba(0,0,0,0.28) 100%);
+}
+
+#u2892:active
+{
+	background: transparent url("../images/u2885-m-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, from(rgba(0,0,0,0.4)),color-stop(100%, rgba(127,127,127,0.28)));
+	background: -webkit-linear-gradient(top,rgba(0,0,0,0.4) ,rgba(127,127,127,0.28) 100%);
+	background: linear-gradient(to bottom,rgba(0,0,0,0.4) ,rgba(127,127,127,0.28) 100%);
+}
+
+#u2892.MuseMenuActive
+{
+	-pie-background: none;
+	background: #D6D6D6 url("../images/%d0%bc%d0%b5%d0%bd%d1%8e-u2885-a-fr.png") no-repeat left top;
+	background-color: rgba(153,153,153,0.4);
+}
+
+#u2893-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 20px;
+	font-size: 17px;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: '__Century Gothic_5';
+	font-weight: 400;
+	position: relative;
+}
+
+#u2873
+{
+	position: relative;
+	background: transparent url("../images/%d0%bc%d0%b5%d0%bd%d1%8e.jpg") no-repeat left top;
+}
+
+#u2873:hover
+{
+	background: transparent url("../images/u2885-r-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, from(rgba(153,153,153,0.4)),color-stop(100%, rgba(0,0,0,0.28)));
+	background: -webkit-linear-gradient(top,rgba(153,153,153,0.4) ,rgba(0,0,0,0.28) 100%);
+	background: linear-gradient(to bottom,rgba(153,153,153,0.4) ,rgba(0,0,0,0.28) 100%);
+}
+
+#u2873:active
+{
+	background: transparent url("../images/u2885-m-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, from(rgba(0,0,0,0.4)),color-stop(100%, rgba(127,127,127,0.28)));
+	background: -webkit-linear-gradient(top,rgba(0,0,0,0.4) ,rgba(127,127,127,0.28) 100%);
+	background: linear-gradient(to bottom,rgba(0,0,0,0.4) ,rgba(127,127,127,0.28) 100%);
+}
+
+#u2873.MuseMenuActive
+{
+	-pie-background: none;
+	background: #D6D6D6 url("../images/%d0%bc%d0%b5%d0%bd%d1%8e-u2885-a-fr.png") no-repeat left top;
+	background-color: rgba(153,153,153,0.4);
+}
+
+#u2876-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 20px;
+	font-size: 17px;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: '__Century Gothic_5';
+	font-weight: 400;
+	position: relative;
+}
+
+#u2906
+{
+	position: relative;
+	background: transparent url("../images/%d0%bc%d0%b5%d0%bd%d1%8e.jpg") no-repeat left top;
+}
+
+#u2906:hover
+{
+	background: transparent url("../images/u2885-r-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, from(rgba(153,153,153,0.4)),color-stop(100%, rgba(0,0,0,0.28)));
+	background: -webkit-linear-gradient(top,rgba(153,153,153,0.4) ,rgba(0,0,0,0.28) 100%);
+	background: linear-gradient(to bottom,rgba(153,153,153,0.4) ,rgba(0,0,0,0.28) 100%);
+}
+
+#u2906:active
+{
+	background: transparent url("../images/u2885-m-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, from(rgba(0,0,0,0.4)),color-stop(100%, rgba(127,127,127,0.28)));
+	background: -webkit-linear-gradient(top,rgba(0,0,0,0.4) ,rgba(127,127,127,0.28) 100%);
+	background: linear-gradient(to bottom,rgba(0,0,0,0.4) ,rgba(127,127,127,0.28) 100%);
+}
+
+#u2906.MuseMenuActive
+{
+	-pie-background: none;
+	background: #D6D6D6 url("../images/%d0%bc%d0%b5%d0%bd%d1%8e-u2885-a-fr.png") no-repeat left top;
+	background-color: rgba(153,153,153,0.4);
+}
+
+#u2907-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 20px;
+	font-size: 17px;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: '__Century Gothic_5';
+	font-weight: 400;
+	position: relative;
+}
+
+#u2866
+{
+	position: relative;
+	background: transparent url("../images/%d0%bc%d0%b5%d0%bd%d1%8e.jpg") no-repeat left top;
+}
+
+#u2866:hover
+{
+	background: transparent url("../images/u2885-r-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, from(rgba(153,153,153,0.4)),color-stop(100%, rgba(0,0,0,0.28)));
+	background: -webkit-linear-gradient(top,rgba(153,153,153,0.4) ,rgba(0,0,0,0.28) 100%);
+	background: linear-gradient(to bottom,rgba(153,153,153,0.4) ,rgba(0,0,0,0.28) 100%);
+}
+
+#u2866:active
+{
+	background: transparent url("../images/u2885-m-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, from(rgba(0,0,0,0.4)),color-stop(100%, rgba(127,127,127,0.28)));
+	background: -webkit-linear-gradient(top,rgba(0,0,0,0.4) ,rgba(127,127,127,0.28) 100%);
+	background: linear-gradient(to bottom,rgba(0,0,0,0.4) ,rgba(127,127,127,0.28) 100%);
+}
+
+#u2866.MuseMenuActive
+{
+	-pie-background: none;
+	background: #D6D6D6 url("../images/%d0%bc%d0%b5%d0%bd%d1%8e-u2885-a-fr.png") no-repeat left top;
+	background-color: rgba(153,153,153,0.4);
+}
+
+#u2868-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 20px;
+	font-size: 17px;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: '__Century Gothic_5';
+	font-weight: 400;
+	position: relative;
+}
+
+#u2858,#u2884,#u2898,#u2891,#u2870,#u2905,#u2863,#u2877
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u2878
+{
+	position: relative;
+	background: transparent url("../images/%d0%bc%d0%b5%d0%bd%d1%8e.jpg") no-repeat left top;
+}
+
+#u2878:hover
+{
+	background: transparent url("../images/u2885-r-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, from(rgba(153,153,153,0.4)),color-stop(100%, rgba(0,0,0,0.28)));
+	background: -webkit-linear-gradient(top,rgba(153,153,153,0.4) ,rgba(0,0,0,0.28) 100%);
+	background: linear-gradient(to bottom,rgba(153,153,153,0.4) ,rgba(0,0,0,0.28) 100%);
+}
+
+#u2878:active
+{
+	background: transparent url("../images/u2885-m-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, from(rgba(0,0,0,0.4)),color-stop(100%, rgba(127,127,127,0.28)));
+	background: -webkit-linear-gradient(top,rgba(0,0,0,0.4) ,rgba(127,127,127,0.28) 100%);
+	background: linear-gradient(to bottom,rgba(0,0,0,0.4) ,rgba(127,127,127,0.28) 100%);
+}
+
+#u2878.MuseMenuActive
+{
+	-pie-background: none;
+	background: #D6D6D6 url("../images/%d0%bc%d0%b5%d0%bd%d1%8e-u2885-a-fr.png") no-repeat left top;
+	background-color: rgba(153,153,153,0.4);
+}
+
+#u2881-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 20px;
+	font-size: 17px;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: '__Century Gothic_5';
+	font-weight: 400;
+	position: relative;
+}
+
+.MenuItem /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
