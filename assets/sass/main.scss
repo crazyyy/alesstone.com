@@ -91,7 +91,8 @@ header {
   .logo {
     display: block;
 
-    width: $width / 10;
+    width: 211px;
+    height: 134px;
     img {
       max-width: 100%;
     }
@@ -105,9 +106,7 @@ nav {
       display: inline-block;
     }
   }
-  .headnav {
-    width: $width / 5;
-  }
+
 }
 
 section {
