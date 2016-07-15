@@ -77,24 +77,144 @@ picture {
 
   @extend .clearfix;
 }
-.inner {
-  position: relative;
-
-  width: $width;
-  margin: 0 auto;
-
-  @extend .clearfix;
-}
 
 header {
   background-color: $light-gray;
-  .logo {
-    display: block;
+  .row-headline {
+    .logo {
+      position: absolute;
+      top: 10px;
+      left: 0;
 
-    width: 211px;
-    height: 134px;
-    img {
-      max-width: 100%;
+      display: block;
+
+      width: 211px;
+      height: 134px;
+
+      text-align: center;
+      img {
+        width: 70%;
+        margin-bottom: 5px;
+      }
+      h4 {
+        font-size: 21px;
+        margin-bottom: 0;
+      }
+      h5 {
+        font-size: 12px;
+        color: $gold;
+      }
+    }
+    .row-headline__body {
+      padding: 38px 0 0;
+      .site-title,
+      .site-desctiption {
+        text-align: center;
+      }
+      .site-title {
+        font-size: 26px;
+        line-height: 36px;
+
+        margin-bottom: 10px;
+        padding: 0 280px;
+        padding-bottom: 30px;
+
+        color: $gold;
+        background-image: url(../img/site-title.png);
+        background-repeat: no-repeat;
+        background-position: center bottom;
+      }
+      .header-search {
+        position: relative;
+
+        width: 480px;
+        margin: 0 auto 30px;
+        input[type=text] {
+          height: 32px;
+
+          border: 1px solid black;
+          border-radius: 0;
+        }
+        button {
+          position: absolute;
+          top: 0;
+          right: 0;
+
+          width: 32px;
+          height: 32px;
+          padding: 0;
+
+          text-align: center;
+
+          background-color: transparent;
+          i {
+            font-size: 130%;
+          }
+          &:hover {
+            i {
+              color: $gold;
+            }
+          }
+        }
+      }
+    }
+    .header-contact-block {
+      position: absolute;
+      top: 0;
+      right: 0;
+
+      width: 260px;
+      padding: 40px 10px 0 0;
+
+      text-align: right;
+      .chose-city {
+        font-size: 18px;
+
+        margin: 0 0 20px;
+        span {
+          font-size: 20px;
+          font-weight: normal;
+
+          margin-left: 20px;
+
+          cursor: pointer;
+          text-decoration: underline;
+
+          color: $gold;
+        }
+      }
+      .city-phones {
+        li {
+          display: block;
+
+          margin: 0 0 15px;
+          &:before {
+            position: absolute;
+            top: 0;
+            left: 40px;
+
+            width: 20px;
+            height: 18px;
+
+            background-image: url(../img/ico/ico-phone.png);
+            background-repeat: no-repeat;
+
+            @extend .dblock;
+          }
+          a {
+            font-size: 19px;
+
+            text-decoration: none;
+
+            color: $gray;
+          }
+          &:HOVER {
+            a {
+              color: black;
+            }
+          }
+        }
+      }
     }
   }
 }
@@ -106,7 +226,6 @@ nav {
       display: inline-block;
     }
   }
-
 }
 
 section {
@@ -132,7 +251,6 @@ footer {
 
 
 @import 'fonts/font_fontawesome';
-@import 'fonts/font_roboto';
+@import 'fonts/font_centrygothic';
 @import 'base64';
 @import 'import/print';
-

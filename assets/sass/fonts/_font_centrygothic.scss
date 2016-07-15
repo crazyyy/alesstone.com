@@ -1,0 +1,22 @@
+$os-font-path:    "../fonts" !default;
+
+@font-face {
+  font-family: 'Century Gothic';
+  src: url('#{$os-font-path}/centurygothic.eot');
+  src: url('#{$os-font-path}/centurygothic.eot?#iefix') format('embedded-opentype'),
+     url('#{$os-font-path}/centurygothic.woff') format('woff'),
+     url('#{$os-font-path}/centurygothic.ttf') format('truetype'),
+     url('#{$os-font-path}/centurygothic.svg#open_sansregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Century Gothic';
+  src: url('#{$os-font-path}/centurygothic-bold.eot');
+  src: url('#{$os-font-path}/centurygothic-bold.eot?#iefix') format('embedded-opentype'),
+     url('#{$os-font-path}/centurygothic-bold.woff') format('woff'),
+     url('#{$os-font-path}/centurygothic-bold.ttf') format('truetype'),
+     url('#{$os-font-path}/centurygothic-bold.svg#open_sansbold') format('svg');
+  font-weight: bold;
+  font-style: normal;
+}

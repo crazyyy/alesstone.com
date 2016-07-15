@@ -1,7 +1,7 @@
 // Font Sizes
 $base-font-size: 16px;
 $em-base: $base-font-size;
-$base-font-family: 'Roboto', sans-serif;
+$base-font-family: 'Century Gothic', sans-serif;
 $heading-font-family: $base-font-family;
 
 // font weight
@@ -16,7 +16,7 @@ $f-thin: 200; // 200 Light or Thin
 $f-ulight: 100; // 100 Extra Light or Ultra Light
 
 // Line height
-$base-line-height: 1.5;
+$base-line-height: 1;
 $heading-line-height: 1.2;
 
 // Other Sizes
@@ -29,15 +29,16 @@ $small-spacing: $base-spacing / 2;
 $base-z-index: 0;
 
 // Colors
-$orange: orange;
+$orange: #6e5c23;
+$gold: #a38e55;
 $red: red;
 $blue: #477dca;
-$dark-gray: #333;
+$gray: #5c5c5c;
 $medium-gray: #999;
 $light-gray: #ddd;
 
 // Font Colors
-$base-font-color: $dark-gray;
+$base-font-color: $gray;
 $action-color: $blue;
 
 // Border
